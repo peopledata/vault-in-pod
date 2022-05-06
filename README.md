@@ -16,7 +16,9 @@ Let's start with two basic tutorial which help you understand how vault-in-pod w
 
 ## Tutorial
 
-The Official Tutorial [Vault Installation to Minikube via Helm](https://learn.hashicorp.com/tutorials/vault/kubernetes-minikube?in=vault/kubernetes) is a good start point. 
+The Official Tutorial [Vault Installation to Minikube via Helm](https://learn.hashicorp.com/tutorials/vault/kubernetes-minikube?in=vault/kubernetes) is a good start point to learn the basics.
+
+There are more addtional tutorials.
 
 1. [Setup the Vault in Kubernetes](https://github.com/peopledata/vault-in-pod/blob/ffdbf5e061a3d3cc9d04f3d8d80d87ec002da280/vault-in-pod-tutorial.md)
 
