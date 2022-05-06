@@ -1,5 +1,5 @@
 
-## Deploy the Vault Server in Kubernetes
+## Setup the Vault Server in Kubernetes
 
 Kubernetes default secret object is just base64 encoded. You need a good KMS and workflow to manage secret storage and retrieval for production uses cases.
 
