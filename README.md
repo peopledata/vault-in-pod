@@ -15,9 +15,16 @@ PeopleVault is a two-tier KMS, which a Root Vault is deployed close with individ
 Let's start with two basic tutorial which help you understand how vault-in-pod works:
 
 ## Tutorial
+
+The Official Tutorial [Vault Installation to Minikube via Helm](https://learn.hashicorp.com/tutorials/vault/kubernetes-minikube?in=vault/kubernetes) is a good start point. 
+
 1. [Setup the Vault in Kubernetes](https://github.com/peopledata/vault-in-pod/blob/ffdbf5e061a3d3cc9d04f3d8d80d87ec002da280/vault-in-pod-tutorial.md)
 
 2. [Vault Agent Injector Tutorial](https://github.com/peopledata/vault-in-pod/blob/6e80fcc6b9b549ad8b7bae63ea148e64fcd9c85d/vault-injector/tutorial.md)
+
+3. [Vault Installation to Google Kubernetes Engine via Helm](https://learn.hashicorp.com/tutorials/vault/kubernetes-google-cloud-gke)
+
+
 
 ## How to use vault-in-pod
 Choose the deployment yaml files and make adjustment depned on your production environment, the do as you learned from above tutorial.
