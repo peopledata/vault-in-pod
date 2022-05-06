@@ -9,7 +9,6 @@ PeopleVault is a two-tier KMS, which a Root Vault is deployed close with individ
 
 In this setup, you will learn the basic of how to deply Vault in Kubernetes pod:
 
-[TOC]
 
 
 ### Vault Kubernetes Manifests
