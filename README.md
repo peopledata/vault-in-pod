@@ -17,5 +17,8 @@ Let's start with two basic tutorial which help you understand how vault-in-pod w
 
 2. [Vault Agent Injector Tutorial](https://github.com/peopledata/vault-in-pod/blob/6e80fcc6b9b549ad8b7bae63ea148e64fcd9c85d/vault-injector/tutorial.md)
 
+## How to use vault-in-pod
+Choose the deployment yaml files and make adjustment depned on your production environment, the do as you learned from above tutorial.
 
+A Community Quickstart Scripts will be relased.
 
