@@ -8,7 +8,9 @@ Hashicorp/Vault is one of the best open-source KMS tools that has good integrati
 
 PeopleVault is a two-tier KMS, which a Root Vault is deployed close with individual person and a Vault Pod in remote cloud. The Root Vault is the root of the Vault Pod, and invesibale from outside. The Vault Pod is intermediate Vault which provider major KMS service to outside. The individual person just manage the Root vault and hold a root phase word/pin only, the rest KMS service will be automatically processed by Root Vault and Vault Pod.
 
-**vault-in-pod** is the second tier KMS of PeopleVault, which deplyed in Kubernetes pod.
+**vault-in-pod** is the second tier KMS of PeopleVault, which deplyed in Kubernetes pod. You can see where the vault-in-pod is:
+
+![vault-in-pod](https://github.com/peopledata/peoplevault/blob/da019acabf1c517526c5f88b639ad3533a6dce46/peopleVault-arc.png)
 
 Let's start with two basic tutorial which help you understand how vault-in-pod works:
 
